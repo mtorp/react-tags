@@ -1,0 +1,58 @@
+{
+  "example/vendor/JSXTransformer.js_MemberExpression_379:25:379:48MaybeAccPathMatch": {
+    "questionText": "[10b] example/vendor/JSXTransformer.js, MemberExpression at 379:25:379:48: Is the receiver a Set?",
+    "answer": "No",
+    "patternId": "10b",
+    "fileName": "example/vendor/JSXTransformer.js",
+    "lineNumber": 379,
+    "columnNumber": 25
+  },
+  "example/vendor/JSXTransformer.js_MemberExpression_915:0:915:23MaybeAccPathMatch": {
+    "questionText": "[10b] example/vendor/JSXTransformer.js, MemberExpression at 915:0:915:23: Is the receiver a Set?",
+    "answer": "No",
+    "patternId": "10b",
+    "fileName": "example/vendor/JSXTransformer.js",
+    "lineNumber": 915,
+    "columnNumber": 0
+  },
+  "example/vendor/JSXTransformer.js_MemberExpression_1571:2:1571:12MaybeAccPathMatch": {
+    "questionText": "[10b] example/vendor/JSXTransformer.js, MemberExpression at 1571:2:1571:12: Is the receiver a Set?",
+    "answer": "No",
+    "patternId": "10b",
+    "fileName": "example/vendor/JSXTransformer.js",
+    "lineNumber": 1571,
+    "columnNumber": 2
+  },
+  "example/vendor/JSXTransformer.js_MemberExpression_1571:15:1571:24MaybeAccPathMatch": {
+    "questionText": "[10b] example/vendor/JSXTransformer.js, MemberExpression at 1571:15:1571:24: Is the receiver a Set?",
+    "answer": "No",
+    "patternId": "10b",
+    "fileName": "example/vendor/JSXTransformer.js",
+    "lineNumber": 1571,
+    "columnNumber": 15
+  },
+  "example/vendor/JSXTransformer.js_MemberExpression_11257:2:11257:37MaybeAccPathMatch": {
+    "questionText": "[10b] example/vendor/JSXTransformer.js, MemberExpression at 11257:2:11257:37: Is the receiver a Set?",
+    "answer": "No",
+    "patternId": "10b",
+    "fileName": "example/vendor/JSXTransformer.js",
+    "lineNumber": 11257,
+    "columnNumber": 2
+  },
+  "example/vendor/JSXTransformer.js_MemberExpression_15912:13:15912:29MaybeAccPathMatch": {
+    "questionText": "[10b] example/vendor/JSXTransformer.js, MemberExpression at 15912:13:15912:29: Is the receiver a Set?",
+    "answer": "No",
+    "patternId": "10b",
+    "fileName": "example/vendor/JSXTransformer.js",
+    "lineNumber": 15912,
+    "columnNumber": 13
+  },
+  "example/vendor/JSXTransformer.js_MemberExpression_15913:11:15913:27MaybeAccPathMatch": {
+    "questionText": "[10b] example/vendor/JSXTransformer.js, MemberExpression at 15913:11:15913:27: Is the receiver a Set?",
+    "answer": "No",
+    "patternId": "10b",
+    "fileName": "example/vendor/JSXTransformer.js",
+    "lineNumber": 15913,
+    "columnNumber": 11
+  }
+}
